@@ -4,7 +4,7 @@
 <br>
 - I’m currently learning python
 <br>
-<p>This readme file contains my CODSOFT internship tasks</p> 
+This readme file contains my CODSOFT internship tasks 
 <br>
 1. TO DO List
 <br>
