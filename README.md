@@ -2,16 +2,14 @@
 <br>
 - Hi, I’m Alok
 <br>
-- I’m currently learning python
-<br>
-This readme file contains my CODSOFT internship tasks 
-<br>
-1. TO DO List
-<br>
-2. Calculator
-<br>
-3. Password Generator
-<br>
-4. Rock Paper Scissor game
-<br>
-5. Contact Manager
+- I’m currently learning python.
+<p></p>
+<head>This readme file contains my CODSOFT internship tasks</head> 
+<ol>
+    <li>TO DO List</li>
+    <li>Calculator</li>
+    <li>Password Generator</li>
+    <li>Rock Paper Scissor gamet</li>
+    <li>Contact Manager</li>
+
+</ol>
